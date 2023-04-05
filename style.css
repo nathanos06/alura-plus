@@ -1,0 +1,10 @@
+:root{
+    --branco-principal:#ffffff;
+    --preto-principal:#00030c;
+    --azul-do-botão:#167bf7;
+    --cinza-pequeno:#c0c0c0;
+
+}
+body{
+    background-color: var(--preto-principal)
+}
